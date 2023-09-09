@@ -1,0 +1,23 @@
+.Navbar{
+    background-color:black;
+    margin: 0;
+    color: white;
+    padding: 10px;
+    
+}
+
+.tools1{
+    display: flex;
+   position: relative;
+   top:15px;
+   font-size: 20px;
+   
+}
+.tools{
+    display: flex;
+    justify-content:space-between;
+   
+}
+.space{
+    margin: 20px;
+}
